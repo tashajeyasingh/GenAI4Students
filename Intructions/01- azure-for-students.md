@@ -4,4 +4,4 @@ Below, it is shown step by step how to activate an Azure for Students subscripti
 
 Step 1: Access the Azure for Students page.
 https://aka.ms/azureforstudents
-
+![alt text](pic1.png)
